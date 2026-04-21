@@ -412,20 +412,4 @@ See `requirements.txt` for complete list. Key dependencies:
 5. Submit a pull request
 
 ## License
-
 MIT
-
-## Author
-
-Created by Amit - FastAPI
-
-## Support
-
-For issues or questions, please open an issue in the repository.
-
-# specific language governing permissions and limitations
-
-# under the License.
-
-wrapperVersion=3.3.2
-distributionType=only-script

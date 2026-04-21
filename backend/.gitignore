@@ -60,3 +60,11 @@ Thumbs.db
 backend/scratch/
 backend/.agent/
 node_modules/
+
+
+# Graphify generated artifacts
+.graphify_python
+.graphify_*.json
+.graphify_*.txt
+graphify-out/
+backend/graphify-out/
